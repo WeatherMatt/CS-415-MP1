@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Health.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/Shared/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Enemy.uasset",
+				"/Users/mattmalitz/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset"
+			]
+		}
+	]
+}
